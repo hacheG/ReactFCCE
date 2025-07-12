@@ -7,7 +7,6 @@ import Shawn from "./imagenes/testimonio-Shawn.webp";
 
 function App() {
   const [count, setCount] = useState(0)
-
   return (
     <div className='app'>
       <div className='contenedor-principal'>
